@@ -1,0 +1,6 @@
+# Xcode files to ignore
+.DS_Store
+*.xcconfig
+*.xcuserstate
+*.xcuserdata/
+DerivedData/
